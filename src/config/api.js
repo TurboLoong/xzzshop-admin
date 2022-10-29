@@ -1,4 +1,4 @@
-const rootUrl = 'http://127.0.0.1:8360/admin/'
+const rootUrl = 'https://koa-thir-15315-5-1306875588.sh.run.tcloudbase.com/admin/'
 // const rootUrl = 'https://shopserver.zxb66.top/admin/'
 
 const api = {
